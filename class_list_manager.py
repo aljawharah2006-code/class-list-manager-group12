@@ -4,9 +4,7 @@
 
 names = ["Sara", "Noura", "Lama", "Reem", "Amal", "Lama"]
 
-
 # ===== Each student adds her function BELOW this line =====
-
 
 # ===== Each student adds her function ABOVE this line =====
 
