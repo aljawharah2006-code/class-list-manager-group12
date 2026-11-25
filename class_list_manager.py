@@ -11,7 +11,15 @@ def count_names(names):
     return len(names)
 
 
+# Written by: Layan alshahrani (Task 6)
+def to_upper(names):
+    upper_names = []
+    for name in names:
+        upper_names.append(name.upper())
+    return upper_names
+
 # ===== Each student adds her function ABOVE this line =====
+
 
 
 def main():
@@ -20,7 +28,7 @@ def main():
     print("Number of names:", count_names(names))
 
     # Each student calls her function here
-
+    print("Uppercase names:", to_upper(names))
 
 main()
 
